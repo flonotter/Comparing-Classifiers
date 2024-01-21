@@ -9,15 +9,18 @@ The analysis utilizes the bank-additional-full.csv dataset. This dataset include
 Methodology
 The project follows these key steps:
 
-Data Loading: Importing the dataset and initial exploration.
-Data Exploration and Preprocessing: Including missing value checks, feature scaling, and encoding categorical variables.
+Data Loading: 
+Importing the dataset and initial exploration.
+
+Data Exploration and Preprocessing: 
+Including missing value checks, feature scaling, and encoding categorical variables.
 Model Building and Evaluation: Implementing and evaluating the performance of different classifiers:
 K-Nearest Neighbors (KNN)
 Logistic Regression
 Decision Trees
 Support Vector Machines (SVM)
 
-Key Findings and Insights
+Key Findings and Insights:
 The performance of each classifier was evaluated based on metrics such as accuracy, precision, recall, and F1-score.
 
 Insights and Analysis:
