@@ -24,7 +24,7 @@ Insights and Analysis:
 General Performance: All models performed well.
 Best Overall Performance: Logistic Regression and SVM showed the highest overall accuracy (91%). 
 
-3. Next Steps and Recommendations:
+Next Steps and Recommendations:
 Class Imbalance: Address the class imbalance issue, possibly through oversampling the minority class or using techniques like SMOTE.
 Feature Engineering: Experiment with different feature engineering techniques to see if the model performance.
 Model Tuning: Fine-tune hyperparameters of the models, especially for Decision Trees and SVM, to potentially improve their performance.
