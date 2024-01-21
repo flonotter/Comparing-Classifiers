@@ -33,4 +33,4 @@ Additional Metrics: Evaluate models using additional metrics like ROC-AUC score 
 Domain Insights: Collaborate with domain experts to gain deeper insights into features that are more predictive of successful telemarketing campaigns.
 
 
-For detailed analysis, methodologies, code, and visualizations, please refer to the accompanying Jupyter notebook: [Link to the notebook].
+For detailed analysis, methodologies, code, and visualizations, please refer to the accompanying Jupyter notebook: [Comparing Classifiers.ipynb](https://github.com/flonotter/Comparing-Classifiers/blob/5ca24d69f8419c86c30f4212eb19eb5426f6204a/Comparing%20Classifiers.ipynb)https://github.com/flonotter/Comparing-Classifiers/blob/5ca24d69f8419c86c30f4212eb19eb5426f6204a/Comparing%20Classifiers.ipynb.
